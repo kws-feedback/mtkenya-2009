@@ -1,0 +1,67 @@
+Report for Institution Code KWS, Resource mt_kenya
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 38
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 9
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 3
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-22 ; Times: 6
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dendroctonus" ; Times: 3
+	Query: "family:Fabaceae " ; Times: 1
+	Query: "danaus" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Scopus umbretta year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "phylloscopus sibilatrix year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Acrocephalus arundinaceus year &gt; 1985 NOT CLO NOT Nature Kenya" ; Times: 1
+	Query: "Corythaeola cristata year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "fulvous whistling duck" ; Times: 1
+	Query: "Sylvietta virens year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 1
+	Query: "Colius striatus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Dryoscopus gambensis year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 940 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Ethiopia ; Times: 2
+	Country: Malawi ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:apalis" ; Times: 1
+	Query: "specificepithet:lugens genus:sylvia" ; Times: 1
+	Query: "Graphiurus murinus" ; Times: 2
+
+
+End of report.
