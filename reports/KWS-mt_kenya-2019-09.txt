@@ -1,0 +1,42 @@
+Report for Institution Code KWS, Resource mt_kenya
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: France ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Asteraceae " ; Times: 1
+	Query: "bark beetle" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Thryonomys swinderianus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1073 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
