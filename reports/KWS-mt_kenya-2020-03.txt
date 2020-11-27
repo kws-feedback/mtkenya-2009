@@ -1,0 +1,57 @@
+Report for Institution Code KWS, Resource mt_kenya
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-02 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 1
+	Query: "Epomophorus wahlbergi" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "genus:Papio specificepithet:anubis" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "genus:Hystrix specificepithet:cristata" ; Times: 2
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "family:rutaceae " ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 853 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera" ; Times: 1
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "family:Galagonidae" ; Times: 1
+
+
+End of report.
