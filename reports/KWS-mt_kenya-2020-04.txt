@@ -1,0 +1,81 @@
+Report for Institution Code KWS, Resource mt_kenya
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 158
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 138
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Ethiopia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-07 ; Times: 30
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-03 ; Times: 12
+	Date: 2020-04-21 ; Times: 92
+	Date: 2020-04-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Elminia longicauda" ; Times: 4
+	Query: "Epomophorus wahlbergi" ; Times: 4
+	Query: "Phylloscopus sibilatrix" ; Times: 7
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Turdus pelios" ; Times: 9
+	Query: "Buteo augur" ; Times: 4
+	Query: "Sylvicapra grimmia" ; Times: 4
+	Query: "Tragelaphus oryx" ; Times: 4
+	Query: "Apalis flavida" ; Times: 4
+	Query: "Hylochoerus meinertzhageni" ; Times: 4
+	Query: "genus:Senna" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "fruit fly" ; Times: 1
+	Query: "tufted duck" ; Times: 2
+	Query: "cheetah" ; Times: 1
+	Query: "family:Rutaceae " ; Times: 1
+	Query: "Tragelaphus scriptus" ; Times: 4
+	Query: "Potamochoerus larvatus" ; Times: 4
+	Query: "Otomys typus" ; Times: 4
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "Hylomyscus denniae" ; Times: 4
+	Query: "Amblyospiza albifrons" ; Times: 8
+	Query: "Ardea cinerea" ; Times: 9
+	Query: "Butorides striata" ; Times: 9
+	Query: "Cercopithecus mitis" ; Times: 4
+	Query: "Papio anubis" ; Times: 4
+	Query: "Prinia bairdii" ; Times: 8
+	Query: "Ciconia nigra" ; Times: 2
+	Query: "Cisticola cantans" ; Times: 7
+	Query: "Cephalophus nigrifrons" ; Times: 4
+	Query: "Otomys tropicalis" ; Times: 4
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "Ciconia ciconia" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1171 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:dohertyi" ; Times: 1
+
+
+End of report.
