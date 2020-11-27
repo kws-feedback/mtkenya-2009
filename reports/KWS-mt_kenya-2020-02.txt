@@ -1,0 +1,64 @@
+Report for Institution Code KWS, Resource mt_kenya
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 3
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:canescens genus:eremomela" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "aardvark" ; Times: 1
+	Query: "Hystrix cristata" ; Times: 1
+	Query: "Formicidae" ; Times: 1
+	Query: "Crested porcupine Hystrix cristata" ; Times: 1
+	Query: "Fraseria lendu" ; Times: 1
+	Query: "cheetah" ; Times: 2
+	Query: "genus:heliosciurus institutioncode:KWS" ; Times: 1
+	Query: "Hylochoerus" ; Times: 1
+	Query: "formicidae" ; Times: 1
+	Query: "Dendrohyrax" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1023 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Graphiurus" ; Times: 2
+	Query: "aardvark" ; Times: 1
+	Query: "Monachus" ; Times: 1
+
+
+End of report.
